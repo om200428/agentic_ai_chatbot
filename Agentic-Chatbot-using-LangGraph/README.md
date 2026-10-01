@@ -1,7 +1,5 @@
-# How to set up the environment
+This is an agentic chatbot with complete abilities of persistence , monitoring ,RAG and various tools (agents)
 
-conda create -n langgraph-test python=3.11 - y
+set up the environment and download requirements 
 
-conda activate langgraph-test
-
-pip install -r requirements.txt
+use streamlit run command to run it on your localhost
